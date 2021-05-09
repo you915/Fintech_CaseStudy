@@ -1,6 +1,6 @@
 <font size = 4>
 
-# Unit 1 Homework Assignment: FinTech Case Study
+# FinTech Case Study
 
 <font size = 3>
 
